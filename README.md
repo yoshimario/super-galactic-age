@@ -18,7 +18,7 @@ _Super Galactic Age Calculator_
 
 ### Specifications
 
-* Spec 1: Create a class called personAge.
+* Spec 1: Create a constructor called PersonInfo that takes user age.
   * Input: 
   * Output:
 
